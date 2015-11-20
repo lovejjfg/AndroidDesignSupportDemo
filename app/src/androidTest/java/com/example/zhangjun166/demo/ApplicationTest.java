@@ -1,4 +1,4 @@
-package com.lovejjfg.androiddesignsupportdemo;
+package com.example.zhangjun166.demo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

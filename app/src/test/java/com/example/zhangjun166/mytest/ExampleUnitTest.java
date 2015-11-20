@@ -1,4 +1,4 @@
-package com.lovejjfg.androiddesignsupportdemo;
+package com.example.zhangjun166.demo;
 
 import org.junit.Test;
 
